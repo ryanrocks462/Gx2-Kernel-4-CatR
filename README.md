@@ -2,8 +2,11 @@
 A Wii U Cat-R / Cat-Dev Unit Kernel exploit  (SYS-CAT 5.5.1)
 
 This is the Wii U Kernel exploit Re-written for Cat-Dev and Cat-R development units.
-It makes all retail compatiable payloads work with dev units by default.
+
+It makes all retail compatible payloads work with dev units by default.
+
 I.E. - TCPGecko, Cafiine, Pygecko etc etc
+
 
 Credits to matthew for porting, thx bb <3
 
