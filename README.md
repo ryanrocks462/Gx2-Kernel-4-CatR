@@ -10,6 +10,6 @@ I.E. - TCPGecko, Cafiine, Pygecko etc etc
 
 Credits to matthew for porting, thx bb <3
 
-# Requiremnts 
-A Cat-R or Cat-dev with System meu version 5.5.1 installed from WiiU-Menu-changer
+# Requirements 
+A Cat-R or Cat-Dev with System menu version 5.5.1 installed from WiiU-Menu-changer
 or with the Latest Dev Firmware image .ddi from Cafe SDK 2.13.03
